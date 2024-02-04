@@ -1,0 +1,4 @@
+1. HTML, CSS, Bootstrap
+2. JS
+3. Github Hosting
+4. Django
